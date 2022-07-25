@@ -2,7 +2,7 @@
 
 {
 	"ip":"Ryozonno5V.aternos.me",
-	"port": "25565",
+	"port": "36586",
 	"name": "Budak Ryozon",
-	"auto-night-skip":"True"
+	"auto-night-skip":"False"
 }
